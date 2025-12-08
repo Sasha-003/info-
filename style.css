@@ -192,3 +192,12 @@ form button:hover {
 h2{
     text-align: center;
 }
+footer {
+    background-color: #c7bc9e;
+    color: grey;
+    padding: 10px 0;     
+    margin-top: auto;
+    clear: both;
+    text-align: center;
+    line-height: 1.2;    
+}
